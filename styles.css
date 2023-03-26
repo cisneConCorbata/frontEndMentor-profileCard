@@ -3,6 +3,7 @@
 :root {
     --cyan: hsl(185, 75%, 39%);
     --blue: hsl(229, 23%, 23%);
+    --shadowBlue: hsla(229, 23%, 23%, .3);
     --gray: hsl(227, 10%, 46%);
     --darkGray: hsl(0, 0%, 59%);
 }
@@ -36,6 +37,7 @@ h1, h2, .age {
     background: white;
     border-radius: 20px;
     width: 350px;
+    box-shadow: 20px 30px 50px var(--shadowBlue);
 }
 
 .topImg {
