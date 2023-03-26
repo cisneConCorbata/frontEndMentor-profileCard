@@ -38,7 +38,7 @@ h1, h2, .age {
     width: 350px;
 }
 
-.header {
+.head {
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -103,7 +103,7 @@ h1, h2, .age {
     border-color: var(--darkGray);
 }
 
-legend {
+.text {
     font-size: 10px;
     letter-spacing: 2px;
 }
