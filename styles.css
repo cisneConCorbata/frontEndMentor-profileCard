@@ -38,7 +38,7 @@ h1, h2, .age {
     width: 350px;
 }
 
-.headImg {
+.topImg {
     display: flex;
     flex-direction: column;
     justify-content: center;
